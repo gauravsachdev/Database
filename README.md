@@ -1,3 +1,5 @@
+The Main Files are in the database.rar file
+
 *Unpack the rar archive
 *Open the dist folder
 *Double click/Open the db fie
